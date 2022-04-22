@@ -1,0 +1,25 @@
+{ "name": "dtmfgen-sox-bash",
+  "version": "0.1.0",
+  "description": "Bash script using SoX to generate DTMF tones.",
+  "keywords": [
+    "dtmf",
+    "sox"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/dtmfgen-sox-bash/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/dtmfgen-sox-bash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/dtmfgen-sox-bash/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+
+  "meh json": "allows after last entry so here's a dummy"
+}
